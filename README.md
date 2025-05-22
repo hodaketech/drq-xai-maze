@@ -11,8 +11,8 @@ We need to provide specific maze data. The code will train for 1000 random episo
 After training agents with 1000 episodes, the result is included in a heat map (Heatmap) that indicates the maze, the synthetic Q values ​​are included in the Excel file, and the shortest path from the starting point (0, 0) to the destination point (9, 9).
 
 ## General Formula & Result of Demo
-[./maze-XRL/screenshots/]
-[./maze-XRL/excel-results/]
+[./drq-xai-maze/screenshots/]
+[./drq-xai-maze/excel-results/]
 
 ## Punishment and Reward
 - Reaching the goal (line 79): +
