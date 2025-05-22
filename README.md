@@ -1,4 +1,4 @@
-# maze-XRL
+# drq-xai-maze
 **_Reward Composition_** is a concept in Reinforcement Learning (RL) and reward optimization systems. It refers to the process of constructing a reward function by combining multiple reward components.
 
 1. Combine multiple objectives: In many RL problems, the goal is not to optimize a single factor but to balance multiple objectives.
